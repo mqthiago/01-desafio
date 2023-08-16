@@ -1,0 +1,8 @@
+:root {
+    --gray-600: #1A1A1A;
+
+}
+
+html {
+  background: var(--gray-600);
+}
