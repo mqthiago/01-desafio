@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'inter': ['serif'],
+        'inter': ['inter var', 'serif'],
       },
       spacing: {
         '3500': '200rem',
